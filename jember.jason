@@ -1,22 +1,93 @@
-{
-  "enabled": true,
-  "show_after": "2025-08-04",
-  "force_update": true,
-  "title": "Sekilas Info",
-  "message": "Silahkan berlangganan utk terus dapat menggunakan aplikasi ini",
-  "link_text": "TTD : Dev DarkIT",
-  "link_url": "https://t.me/+6BPuxAEhOqpiYmY1",
-  "buttons": [
-    {
-      "text": "Hub.i Admin",
-      "action": "url",
-      "target": "https://t.me/+6BPuxAEhOqpiYmY1",
-      "style": "primary"
-    },
-    {
-      "text": "Tutup",
-      "action": "dismiss",
-      "style": "secondary"
-    }
-  ]
-}
+[
+  {
+    "id": "61889c57df59ff5d",
+    "username": "test",
+    "password": "test",
+    "expiresAt": "2025-08-28",
+    "allowOffline": false
+  },
+  {
+    "id": "kosong",
+    "username": "kosong",
+    "password": "kosong",
+    "expiresAt": "2025-08-28",
+    "allowOffline": false
+  },
+  {
+    "id": "3ad6c0d527b62a29",
+    "username": "kosong",
+    "password": "kosong",
+    "expiresAt": "2025-08-30",
+    "allowOffline": false
+  },
+  {
+    "id": "46eade0aa52eafda",
+    "username": "kosong",
+    "password": "kosong",
+    "expiresAt": "2025-08-12",
+    "allowOffline": false
+  },
+  {
+    "id": "6a779c48402c9c5d",
+    "username": "kosong",
+    "password": "kosong",
+    "expiresAt": "2025-09-01",
+    "allowOffline": false
+  },
+  {
+    "id": "433995e0bd4b2ca8",
+    "username": "kosong",
+    "password": "kosong",
+    "expiresAt": "2025-09-01",
+    "allowOffline": false
+  },
+  {
+    "id": "73e4aee5848531f7",
+    "username": "kosong",
+    "password": "kosong",
+    "expiresAt": "2025-09-02",
+    "allowOffline": false
+  },
+  {
+    "id": "d558f8217d65e58c",
+    "username": "kosong",
+    "password": "kosong",
+    "expiresAt": "2025-09-10",
+    "allowOffline": false
+  },
+  {
+    "id": "294a9cfa377baa70",
+    "username": "kosong",
+    "password": "kosong",
+    "expiresAt": "2025-12-31",
+    "allowOffline": false
+  },
+  {
+    "id": "294a9cfa377baa70",
+    "username": "kosong",
+    "password": "kosong",
+    "expiresAt": "2025-12-31",
+    "allowOffline": false
+  },
+  {
+    "id": "294a9cfa377baa70",
+    "username": "kosong",
+    "password": "kosong",
+    "expiresAt": "2025-07-30",
+    "allowOffline": false
+  },
+  {
+    "id": "294a9cfa377baa70",
+    "username": "kosong",
+    "password": "kosong",
+    "expiresAt": "2025-12-31",
+    "allowOffline": false
+  },
+  {
+    "id": "294a9cfa377baa70",
+    "username": "kosong",
+    "password": "kosong",
+    "expiresAt": "2025-12-31",
+    "allowOffline": false
+  }
+]
